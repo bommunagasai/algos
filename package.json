@@ -1,0 +1,14 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bommunagasai/algos.git",
+  "author": "bommunagasai <bommunagasai@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./search/InsertPosition.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
